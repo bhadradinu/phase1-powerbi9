@@ -1,0 +1,4 @@
+  DAX MEASURE
+
+
+The total salary is 2M but for the city "Kochi" it's salary is 585k because CALCULATE filter the data to only include in "Kochi".
